@@ -8,6 +8,7 @@
 - редагувати завдання
 
 Html - формується у браузері (ReactJS)
+[Проект сервера ASP.NET](https://github.com/Alex-Serdiuk/HW_15_10_23/tree/with_react)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
